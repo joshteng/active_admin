@@ -19,7 +19,7 @@ Gem::Specification.new do |s|
   s.require_paths = ["lib"]
 
   s.add_dependency("rails", ">= 3.0.0")
-  s.add_dependency("jquery-rails", ">= 1.0.0", "< 3.0.1")
+  s.add_dependency("jquery-rails", ">= 1.0.0", "< 3.0.2")
   s.add_dependency("jquery-ui-rails", ">= 4.0.0")
   s.add_dependency("bourbon", ">= 1.0.0")
   s.add_dependency("meta_search", ">= 0.9.2")
